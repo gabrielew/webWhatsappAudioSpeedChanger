@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Web Whatsapp Audio Speed changer",
-  "version": "0.2",
+  "version": "0.3",
   "icons": {
     "48": "icons/border-48.png",
     "96": "icons/border-96.png"
