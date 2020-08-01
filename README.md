@@ -7,5 +7,6 @@
 
 <p> To use in Mozilla you only need to download the extension in oficial site <a href="https://addons.mozilla.org/pt-BR/firefox/addon/web-whatsapp-audio-speedchange/" target="blank"><strong>Here</strong></a> </p>
 
+<p><strong>Feel free to open an issue or Pull Request, contributors are welcome</strong></p>
 
 <p><strong>MIT License</strong></p>
