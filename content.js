@@ -44,11 +44,11 @@ const interval = setInterval(() => {
       let playbackRate = Number(localStorage.getItem("playbackRate"));
       if (playbackRate === 1) {
         playbackRate++;
-        playbackRate = playbackRate = handlePlaybackRateStatus(playbackRate);
+        playbackRate = handlePlaybackRateStatus(playbackRate);
         handleAudioPlaybackRate(playbackRate);
       } else if (playbackRate === 2) {
         playbackRate--;
-        playbackRate = playbackRate = handlePlaybackRateStatus(playbackRate);
+        playbackRate = handlePlaybackRateStatus(playbackRate);
         handleAudioPlaybackRate(playbackRate);
       }
     });
