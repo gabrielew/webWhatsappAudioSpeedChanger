@@ -1,4 +1,4 @@
-## A chrome extension to change web whatsapp audio speed to 2x
+## Extension to change web whatsapp audio speed to 2x rate
 
 <p> This extension is for those who don't like to listen to five-minute audios every time, so next to the profile photo a 2x button will appear, <strong>and even better</strong>, you won't have to worry about changing the speed all the time, the state will be saved after your first choice! </p>
 
